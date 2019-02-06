@@ -1,0 +1,226 @@
+
+
+		.fondo_grisecito { background-color: #ebebeb; }
+		.fondo_osc { background-color: #575656; }
+		.fondo_blanco { background-color: white; }
+		.fondo_azul{ background-color: #5d699d; }
+	
+	footer {
+      background-color: #555;
+      color: white;
+		padding:5px;
+  }
+	.negro{color:black;}
+	.gris {color:rgb(150,150,150);}
+	.izq { text-align:left; }
+	.der { text-align:right; }
+	.p12 { font-size:12px;}
+	.p16 { font-size:16px;}
+	.p20 { font-size:20px;}
+	.p24 { font-size:24px;}
+	.p14 { font-size:14px;}
+	.just { text-align: justify; }
+	
+	.ancho {     width: 100%; }
+	.tit_secc {      
+	  color: #ffffff;
+    font-size: 20px;
+    background-color: #77c283;
+    padding: 5px;
+    border-radius: 5px;
+		margin-bottom: 20px;
+		}
+	
+	.tit_pag {
+	  color: #f1861c;
+    font-size: 20px;
+		padding: 5px;
+    text-align: left !important;
+    background-color: #fbfbfb; 
+    border-bottom: 4px solid #f1861c;
+		margin-bottom:20px;
+	}
+
+	.centro {align:center !important; text-align:center !important; }
+	
+/*	*
+	{
+	   font-family: Didact-Gothic;
+		 font-size: 16px;
+	} */
+	
+	.fecha_publ{
+    width: 57px;
+    height: 57px;
+    margin-right: 10px;
+    padding-top: 4px;
+    background-color: #c5911e;
+    -moz-box-sizing: border-box;
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: 300;
+    line-height: 25px;
+    text-align: center;
+    text-transform: uppercase;
+	}
+	
+	.tit {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 0px;
+ 	}	
+		
+	.tit_publ {
+    font-size: 18px;
+    text-transform: uppercase;		
+	}
+	
+	.bajada_publ {
+		font-size: 14px;		
+		color: rgb(160,160,160);
+	}
+
+	.cierre_tema {
+		text-align:center;
+		width:100%;
+		color:white;
+		text-transform: uppercase;	
+		font-size: 14px;
+		padding: 10px;
+	}
+	
+	.invis {		display: none !important ;}
+	.row-eq-height {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display:         flex;
+	}
+
+	.pepe {
+		min-height: 20px;
+		padding: 19px;
+		margin-bottom: 20px;
+		background-color: white;
+		border: 1px solid #e3e3e3;
+		border-radius: 4px;
+		text-align:left; 
+		border-left: 6px solid white;
+		margin-bottom: 0px; /* porque ahora tiene una etiqueta abajo, pegada */
+	}
+
+	.anim_borde_verde, .anim_borde_naranja, .anim_borde_celeste {
+		transition: border-color 1s ease, box-shadow 0.5s;	 
+	}
+	
+	.anim_borde_verde:hover {
+		border-left: 6px solid #6fa97c;
+		box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+	}
+
+	.anim_borde_naranja:hover {
+		border-left: 6px solid #d28d14;
+		box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+	}
+
+	.anim_borde_celeste:hover {
+		border-left: 6px solid #8790d2;
+		box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+	}
+	
+	.borde_rojo { border-left: 6px solid #e80000 !important; }
+	.borde_amarillo { border-left: 6px solid #ffeb3b  !important;}
+	.borde_verde { border-left: 6px solid #6fa97c !important;}
+	.borde_naranja { border-left: 6px solid #d28d14 !important; }
+
+	.sombrafoco {
+		transition: box-shadow 0.5s;			/* efecto sombra */
+	}
+	
+	.sombrafoco:hover {
+				box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+	}	
+
+	/* sobreescribo*/
+	.navbar-nav>li>a {
+			color: #cecece !important;
+			text-transform: uppercase;
+			border-bottom: 6px solid #5d699d  !important;
+			transition: border-bottom 0.5s;
+	}	
+
+	/* sobreescribo*/
+	.navbar-nav>li>a:hover, .navbar-nav>li>a:active {
+			color: white !important;
+			border-bottom: 6px solid #8790d2 !important;
+			background-color: transparent !important;
+	}	
+	
+	/* ------------------------- de aca en adelante es la animacion -------------------- */
+	
+.slideanim {visibility:hidden;}
+.slide {
+    /* The name of the animation */
+    animation-name: slide;
+    -webkit-animation-name: slide; 
+    /* The duration of the animation */
+    animation-duration: 1s; 
+    -webkit-animation-duration: 1s;
+    /* Make the element visible */
+    visibility: visible; 
+}
+
+@keyframes slide {
+    0% {
+        opacity: 10;
+        -webkit-transform: translateY(70%);
+    } 
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+    } 
+}
+@-webkit-keyframes slide {
+    0% {
+        opacity: 0.1;
+        -webkit-transform: translateY(70%);
+    } 
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+    }
+}	
+
+.slide-h {
+    /* The name of the animation */
+    animation-name: slide;
+    -webkit-animation-name: slide-h; 
+    /* The duration of the animation */
+    animation-duration: 1s; 
+    -webkit-animation-duration: 1s;
+    /* Make the element visible */
+    visibility: visible; 
+}
+
+
+@keyframes slide-h {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(5%);
+    } 
+    100% {
+        opacity: 1;
+        -webkit-transform: translateX(0%);
+    } 
+}
+@-webkit-keyframes slide-h {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(5%);
+    } 
+    100% {
+        opacity: 1;
+        -webkit-transform: translateX(0%);
+    }
+}	

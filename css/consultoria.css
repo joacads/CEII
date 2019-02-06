@@ -1,0 +1,85 @@
+.linea {
+	height:30px;
+	width:50%;
+	border-right : 3px solid gray;
+}
+
+.linea_corta {
+	height:15px;
+	width:50%;
+	border-right : 3px solid gray;
+}
+
+.div_texto {
+	max-width: 600px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#ffffff;
+}
+.texto_ano {
+	font-size:30px;
+	font-weight: lighter;
+	color:#646d98;
+	text-align:center; 
+}
+
+.texto_n {
+	text-align:center; 
+	font-size:18px;
+	font-weight: lighter;
+	padding: 20px;
+	margin: 0;
+
+}
+
+.div_texto_r {
+	position: relative;
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.tit_res {
+	position: relative;
+	text-align:center; 
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#79d5dc;
+	font-size:15px;
+	font-weight: lighter;
+	width:100px;
+	z-index:3;
+	padding:10px;
+
+}
+
+.texto_r {
+	position: relative;
+	top:-5px;
+	left:0px;
+	
+	text-align:justify; 
+	background-color:#dadadb;
+	font-size:15px;
+	font-weight: lighter;
+	padding:20px;
+	z-index:2;
+	box-shadow: -4px 8px 20px 4px rgba(0, 0, 0, 0.33) /*esta sombra es más fuerte que la de '.sombrasiempre'*/
+}
+
+
+.texto_r2 {
+	transform: rotateZ(-2deg);
+	z-index:1;
+	position: absolute;
+	top:35px;
+	left:0px;
+	
+	text-align:justify; 
+	background-color:#9393ab;
+	font-size:15px;
+	font-weight: lighter;
+	padding:20px;
+
+}

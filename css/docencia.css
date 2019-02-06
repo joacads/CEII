@@ -1,0 +1,38 @@
+
+.curso_tit {
+	font-size:18px;
+	/*color: #7789f7;*/
+	text-transform:uppercase;
+}
+
+.curso_sub {
+	color: gray;
+	font-style: italic
+}
+
+.curso_info {
+	/*font-size:
+	color:*/
+
+}
+
+.curso {
+	margin: 20px 10px ;
+}
+
+.cursogrado {
+	padding:0px;
+	margin-bottom: 40px;
+}
+
+.cursogrado_header_p {
+	padding: 20px;
+	color:whitesmoke;
+	font-size:18px;
+}
+
+.cursogrado li {
+	font-size:19px;
+}
+
+    background-color: rgb(165, 162, 99);

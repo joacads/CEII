@@ -1,0 +1,16 @@
+<!--
+
+/* TEAM */
+
+Name: Diseño y programación: simpleclic
+Contact: info@simpleclic.com.ar
+From: Mendoza/ Mendoza, Argentina
+
+/* THANKS */
+
+Name: Joaquin Diaz
+Contact: joaquindiazschillagi@gmail.com
+LinkedIn: https://www.linkedin.com/in/joaquín-díaz-741354124
+From: Mendoza/ Mendoza, Argentina
+
+-->

@@ -1,0 +1,87 @@
+.flip { 
+  -webkit-perspective: 800;
+   width: 100%;
+   height: 420px;
+   position:relative;
+   padding:0;
+	 margin-bottom: 20px;
+
+
+}
+.flipped > .card {
+  -webkit-transform: rotateY(-180deg);
+
+}
+.flip .card {
+  width: 100%;
+  height: 100%;
+  -webkit-transform-style: preserve-3d;
+  -webkit-transition: 0.8s;
+  padding:0;
+  border-width: 0px !important;
+
+  /* margin: 0 !important; */
+}
+.flip .card .face {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  -webkit-backface-visibility: hidden ;
+  z-index: 2;
+
+    text-align: center;
+    padding:10px;
+    overflow:hidden;
+
+    
+}
+.flip .card .front {
+  position: absolute;
+  z-index: 1;
+  padding: 0 !important;
+
+}
+.flip .card .back {
+  -webkit-transform: rotatey(-180deg);
+    
+    background: #efeded;
+    color: black;
+    cursor: pointer;
+}
+
+.ficha_info_full {
+	overflow-y: scroll;
+	height: 300px;
+}
+
+#ca {
+	/*background-color: #cfd3d1;*/
+}
+
+#ce .ficha_nombre {
+    color: #d28d14;
+    font-size: 18px;
+}
+
+#ca .ficha_nombre{
+    color: #8790d2;
+    font-size: 18px;
+}
+
+.ficha_img {
+	width:100%;
+    margin-bottom: 20px;
+    
+    transition: all 1s ease;
+		margin-top:50px;
+
+}
+
+.ficha_sub { color:gray; }
+
+.front {border-width: 0px !important;}
+
+.front:hover > .ficha_img {transform:scale(1.05);}
+
+.ficha_nombre { text-transform:uppercase ; height:50px; margin: 10px;}
+.flip a {padding:10px 20px;}

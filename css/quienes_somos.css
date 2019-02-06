@@ -1,0 +1,21 @@
+.polaroid {
+
+	  padding: 20px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px rgba(12, 12, 12, 0.2);
+	width:95%;
+
+}
+
+.just { padding: 0 20px;}
+
+.div_izq {
+	float:left;
+	width:40%;
+}
+
+.div_der {
+	float:right;
+	width:40%;
+}
