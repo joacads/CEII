@@ -109,7 +109,7 @@ $art[]=array(
 	'tit'		=> 'TENSIONES Y CONFLICTOS EN LA IMPLEMENTACIÓN DE POLÍTICAS PÚBLICAS: EL CASO DEL ORDENAMIENTO DEL TERRITORIO EN MENDOZA',
 	'autor'	=> 'Dra. Melina Guardamagna',
 	'sub'		=> 'Revista Estado Abierto. Revista sobre el Estado, la administración y las políticas públicas.',
-	'pdf'		=> 'Artículo publicado ciencia Política. Revista Persona y Sociedad 2011.pdf'
+	'pdf'		=> 'Articulo publicado ciencia politica. Revista Persona y Sociedad 2011.pdf'
 );
 
 $art[]=array(
@@ -117,7 +117,7 @@ $art[]=array(
 	'tit'		=> 'MUJERES ENTRE LA LIBERTAD Y LA OBLIGACIÓN. PRÁCTICAS DE MOVILIDAD COTIDIANA EN EL GRAN BUENOS AIRES',
 	'autor'	=> 'Andrea Gutiérrez; Malena Reyes',
 	'sub'		=> 'Revista Transporte y Territorio',
-	'pdf'		=> 'Artículo publicado ciencia Política. Revista Persona y Sociedad 2011.pdf'
+	'pdf'		=> 'Articulo publicado ciencia politica. Revista Persona y Sociedad 2011.pdf'
 );
 
 $art[]=array(
@@ -125,7 +125,7 @@ $art[]=array(
 	'tit'		=> 'Marchas y contramarchas en el desarrollo de la ciencia Política argentina',
 	'autor'	=> 'Dra. Melina Guardmagna',
 	'sub'		=> 'Persona y sociedad / Universidad Alberto Hurtado',
-	'pdf'		=> 'Artículo publicado ciencia Política. Revista Persona y Sociedad 2011.pdf'
+	'pdf'		=> 'Articulo publicado ciencia politica. Revista Persona y Sociedad 2011.pdf'
 );
 
 
