@@ -4,8 +4,8 @@ $ev[]=array(
 	"tit"			=>	"XV Conferencia Anual de la Red Interamericana para la Educación en Administración Pública INPAE: RESPUESTAS LATINOAMERICANAS A LOS DESAFÍOS DE LA ADMINISTRACIÓN PÚBLICA",
 	"descr"		=>	"Concepción, Chile. 23 al 26 de abril de 2019",
 	"link"			=>	"",
-	"img"			=>	"ev7.png",
-	"img_mini"	=>	"ev7_mini.png",
+	"img"			=>	"ev10.png",
+	"img_mini"	=>	"ev10.png",
 	"eliminado"=>		false,
 	"info"			=>  ''
 );
@@ -16,8 +16,8 @@ $ev[]=array(
 	"descr"		=>	"A realizarse del 17 al 20 de julio de 2019 en el campus de la Universidad Nacional de San
 	Martín, en la provincia de Buenos Aires.",
 	"link"			=>	"www.saap.org.ar",
-	"img"			=>	"ev8.png",
-	"img_mini"	=>	"ev8.png",
+	"img"			=>	"ev9.png",
+	"img_mini"	=>	"ev9.png",
 	"eliminado"=>		false,
 	"info"			=>  'En breve se informarán las fechas de envío de propuestas, y se habilitará el sistema on line
 	para realizar el envío de las mismas. Para más información escríbanos a 14congreso@saap.org.ar'
