@@ -1,4 +1,28 @@
 <?
+
+$ev[]=array(
+	"tit"			=>	"XV Conferencia Anual de la Red Interamericana para la Educación en Administración Pública INPAE: RESPUESTAS LATINOAMERICANAS A LOS DESAFÍOS DE LA ADMINISTRACIÓN PÚBLICA",
+	"descr"		=>	"Concepción, Chile. 23 al 26 de abril de 2019",
+	"link"			=>	"",
+	"img"			=>	"ev7.png",
+	"img_mini"	=>	"ev7_mini.png",
+	"eliminado"=>		false,
+	"info"			=>  ''
+);
+
+$ev[]=array(
+	"tit"			=>	"XIV Congreso Nacional de Ciencia Política. LA POLÍTICA EN INCERTIDUMBRE. Reordenamientos globales, realineamientos domésticos,
+	y la cuestión de la transparencia.",
+	"descr"		=>	"A realizarse del 17 al 20 de julio de 2019 en el campus de la Universidad Nacional de San
+	Martín, en la provincia de Buenos Aires.",
+	"link"			=>	"www.saap.org.ar",
+	"img"			=>	"ev8.png",
+	"img_mini"	=>	"ev8.png",
+	"eliminado"=>		false,
+	"info"			=>  'En breve se informarán las fechas de envío de propuestas, y se habilitará el sistema on line
+	para realizar el envío de las mismas. Para más información escríbanos a 14congreso@saap.org.ar'
+);
+
 $ev[]=array(
 	"tit"			=>	"XIII Conferencia Anual INPAE 2017",
 	"descr"		=>	"",
@@ -15,7 +39,7 @@ $ev[]=array(
 	"link"			=>	"",
 	"img"			=>	"ev6.jpg",
 	"img_mini"	=>	"ev6.jpg",
-	"eliminado"=>		false,
+	"eliminado"=>		true,
 	"info"			=>  'A partir de este próximo 28 de septiembre y hasta el mes de diciembre, en la
 	Facultad de Ciencias Políticas y Sociales de la UNCUYO, en el marco de la 2º cohorte de la
 	Diplomatura de Posgrado en Gestión y Políticas Públicas, que se dicta en esta Casa de Altos
@@ -39,22 +63,12 @@ $ev[]=array(
 );
 
 $ev[]=array(
-	"tit"			=>	"XV Conferencia Anual de la Red Interamericana para la Educación en Administración Pública INPAE: RESPUESTAS LATINOAMERICANAS A LOS DESAFÍOS DE LA ADMINISTRACIÓN PÚBLICA",
-	"descr"		=>	"Concepción, Chile. 23 al 26 de abril de 2019",
-	"link"			=>	"",
-	"img"			=>	"ev7.png",
-	"img_mini"	=>	"ev7_mini.png",
-	"eliminado"=>		false,
-	"info"			=>  ''
-);
-
-$ev[]=array(
 	"tit"			=>	"8º Conferencia Latinoamericana y Caribeña de Ciencias Sociales",
 	"descr"		=>	"Las luchas por la igualdad, la justicia social y la democracia en un mundo turbulento. 17 al 23 de Noviembre 2018",
 	"link"			=>	"",
 	"img"			=>	"ev2.jpg",
 	"img_mini"	=>	"ev2_mini.jpg",
-	"eliminado"=>		false,
+	"eliminado"=>		true,
 	"info"			=>  'CLACSO – Consejo Latinoamericano de Ciencias Sociales
 	Desde el año 2003, CLACSO ha realizado sus conferencias generales con una
 convocatoria cada vez más amplia de participantes e invitados/as internacionales. Su última
@@ -94,25 +108,12 @@ Mundial.'
 );
 
 $ev[]=array(
-	"tit"			=>	"XIV Congreso Nacional de Ciencia Política. LA POLÍTICA EN INCERTIDUMBRE. Reordenamientos globales, realineamientos domésticos,
-	y la cuestión de la transparencia.",
-	"descr"		=>	"A realizarse del 17 al 20 de julio de 2019 en el campus de la Universidad Nacional de San
-	Martín, en la provincia de Buenos Aires.",
-	"link"			=>	"www.saap.org.ar",
-	"img"			=>	"ev8.png",
-	"img_mini"	=>	"ev8.png",
-	"eliminado"=>		false,
-	"info"			=>  'En breve se informarán las fechas de envío de propuestas, y se habilitará el sistema on line
-	para realizar el envío de las mismas. Para más información escríbanos a 14congreso@saap.org.ar'
-);
-
-$ev[]=array(
 	"tit"			=>	"Congreso SAAP",
 	"descr"		=>	"2 AL 5 DE AGOSTO, BS AS",
 	"link"			=>	"https://congreso13.saap.org.ar/",
 	"img"			=>	"ev2.jpg",
 	"img_mini"	=>	"ev2_mini.jpg",
-	"eliminado"=>		false,
+	"eliminado"=>		true,
 	"info"			=>  'XIII Congreso Nacional de Ciencia Política
 Organizan: Sociedad Argentina de Análisis Político.
 "La política en entredicho. Volatilidad global, desigualdades persistentes y gobernabilidad democrática".
@@ -127,7 +128,7 @@ $ev[]=array(
 	"link"			=>	"http://www.uncuyo.edu.ar/relacionesinternacionales/congreso-de-aguas-ambiente-y-energia-2017",
 	"img"			=>	"ev3.jpg",
 	"img_mini"	=>	"ev3_mini.jpg",
-	"eliminado"=>		false,
+	"eliminado"=>		true,
 	"info"			=>	''
 );
 
@@ -137,7 +138,7 @@ $ev[]=array(
 	"link"			=>	"www.ridot.uncu.edu.ar",
 	"img"			=>	"ev4.jpg",
 	"img_mini"	=>	"ev4_mini.jpg",
-	"eliminado"=>		false,
+	"eliminado"=>		true,
 	"info"			=>	'El evento reúne a investigadores, académicos, técnicos y políticos de diferentes países iberoamericanos preocupados por los efectos del cambio climático y las fluctuantes transformaciones que se producen en torno a la economía y a la sociedad; procesos que impactan en el territorio y afectan las condiciones de vida de la población.
 Encontrá la 1° Circular y más información en el link'
 	
@@ -149,7 +150,7 @@ $ev[]=array(
 	"link"			=>	"",
 	"img"			=>	"ev5.png",
 	"img_mini"	=>	"ev5_mini.png",
-	"eliminado"=>		false,
+	"eliminado"=>		true,
 	"info"			=>	'"Diplomatura de Posgrado en Gestión y políticas públicas" 
 <b>Directora</b>: Dra. María Melina Guardamagna (FCPyS. UNCuyo. CONICET) 
 <b>Coordinadora Académica:</b> Lic. Elina Agúero Zavala (FCPyS. UNCuyo)  
