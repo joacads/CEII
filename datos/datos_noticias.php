@@ -1,7 +1,25 @@
 <?
 
 $not[]=array(
-	"tit"			=>	"Participación del del CEII de Seminario organizado por ILPES",
+	"tit"			=>	"",
+	"cuerpo"		=>	"Desde el mes de enero de 2019, la Dra. Melina Guardamagna como Directora de la Diplomatura de Posgrado en Gestión y Polí­ticas Públicas y en representación de la Universidad Nacional de Cuyo, ha sido nombrada como la Directora Ejectuva de la Red INPAE por el período 2019 - 2021.",
+	"img"			=>	array(),
+	"img_mini"	=>	"logoInpae.jpg",
+	"eliminado"=>		false
+);
+
+$not[]=array(
+	"tit"			=>	"El CEII sigue trabajando en la innovación de la gestión local junto al Municipio de Maipu.",
+	"cuerpo"		=>	"
+	El 21 de diciembre de 2018, el CEII y el Gobierno de Maipu firmaron un acuerdo por Gobierno Digital.
+	El mismo tiene el fin de promover el desarrollo local y fortalecer al Municipio, logrando más transparencia, participación ciudadana, eﬁcacia y mejor calidad de los servicios.",
+	"img"			=>	array(),
+	"img_mini"	=>	"not10.jpg",
+	"eliminado"=>		false
+);
+
+$not[]=array(
+	"tit"			=>	"Participación del CEII de Seminario organizado por ILPES",
 	"cuerpo"		=>	"Miembros del CEII participaron del Seminario organizado por el Instituto Latinoamericano y del Caribe de Planificación Económica y Social (ILPES) de la Comisión Económica para América Latina y el Caribe (CEPAL) con motivo de los 70 años de la institución: “70 años de la CEPAL: Planificación para el desarrollo con visión de futuro”, los días 22 y 23 de octubre de 2018.
 	Melina Guardamagna, Malena Reyes y Paula Vogel disertaron sobre mecanismos de participación ciudadana en el diseño e implementación de políticas públicas orientadas al desarrollo del territorio.",
 	"img"			=>	array(),
@@ -10,18 +28,9 @@ $not[]=array(
 );
 
 $not[]=array(
-	"tit"			=>	"",
-	"cuerpo"		=>	"Desde el mes de setiembre de 2018, la Dra. Melina Guardamagna como Directora de la Diplomatura de Posgrado en Gestión y Políticas Públicas y en representación de la Universidad Nacional de Cuyo, forma parte del Consejo Directivo de la Red INPAE. 
-	Habiendo sido ratificada por la Asamblea General, ejercerá el cargo de Consejera Directiva desde este momento, hasta el 31 de Diciembre de 2020.",
-	"img"			=>	array(),
-	"img_mini"	=>	"logoInpae.jpg",
-	"eliminado"=>		false
-);
+	"tit"			=>	"Cuatro exgobernadores de Mendoza enseñaron a gestionar en la UNCuyo",
+	"cuerpo"		=>	"La Diplomatura de Posgrado en Gestión y Políticas Públicas abrió las inscripciones para su Segunda Cohorte. Se trató de una propuesta profesionalizante de Posgrado destinada a graduados y graduadas de diversas disciplinas; funcionarios y funcionarias de distintos organismos municipales, provinciales y nacionales. Así como también a todas las organizaciones de la sociedad civil y del sector privado. De esta forma, la Facultad de Ciencias Políticas y Sociales invitó a la serie de actividades que inició el 28 de septiembre.
 
-$not[]=array(
-	"tit"			=>	"Cuatro exgobernadores de Mendoza enseñarán a gestionar en la UNCuyo",
-	"cuerpo"		=>	"La Diplomatura de Posgrado en Gestión y Políticas Públicas abre las inscripciones para su Segunda Cohorte. Se trata de una propuesta profesionalizante de Posgrado destinada a graduados y graduadas de diversas disciplinas; funcionarios y funcionarias de distintos organismos municipales, provinciales y nacionales. Así como también a todas las organizaciones de la sociedad civil y del sector privado. De esta forma, la Facultad de Ciencias Políticas y Sociales invita a la serie de actividades que inicia el 28 de septiembre.
-	
 	https://www.mdzol.com/politica/Cuatro-exgobernadores-de-Mendoza-ensenaran-a-gestionar-en-la-UNCuyo-20180925-0132.html",
 	"img"			=>	array("exgobernadores.jpg"),
 	"img_mini"	=>	"exgobernadores.jpg",
